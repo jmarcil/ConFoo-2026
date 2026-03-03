@@ -55,6 +55,7 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | OpenTelemetry & Spring Boot | Xavier Bouclet | [PDF](2026-02-26/opentelemetry-&-Spring-Boot.pdf) |
 | Real-time streaming showdown | Sherif Behna | [PDF](2026-02-26/streaming_spark_flink-sherif_behna.pdf) |
 | AI Assemble! Build your own private Development Team | Heath Kesler | [PDF](2026-02-26/AI_Assemble_Build_your_own_private_Development_Team-Heath_Kesler.pdf) |
+| Safe Agentic Dev Environments | [Rida Al Barazi](https://rida.me) | [PDF](2026-02-26/safe_agentic_coding-rida_al_barazi.pdf) |
 | From the Crypt to the Code | Ramona Schwering | [PDF](2026-02-26/crypt_to_code-ramona_schwering.pdf),[GitHub](https://github.com/leichteckig/login-a11y) |
 | Redefining Code Review with AI | [Erik Beaulieu](https://www.linkedin.com/in/erik-beaulieu/) | [PDF](2026-02-26/Redefining-Code-Review-with-AI_ErikBeaulieu.pdf) |
 | Insights on Context & Memory for a Supportive Assistant | [Cedric L'homme](https://github.com/rangzen) | [PDF](2026-02-26/insights_on_context_and_memory_for_a_supportive_assistant-cedric_lhomme.pdf) |
@@ -74,6 +75,7 @@ Below you will find the slides of most presentations given at ConFoo 2026.
 | Becoming a Tanstack developer | Guy Nesher | [Slides (PDF)](2026-02-27/becoming_a_tanstack_developer.pdf) |
 | Mental Models and Heuristics | Marc-Antoine Aubé | [Slides](https://speakerdeck.com/marcaube/mental-models-and-heuristics) |
 | Gitting More Out Of Git | [Jordan Kasper](https://jordankasper.com/) | [pdf](2026-02-27/Gitting_More_Out_Of_Git-Jordan_Kasper.pdf) |
+| Agentic Coding: Building Features with AI Teammates | [Rida Al Barazi](https://rida.me) | [PDF](2026-02-27/agentic_coding-rida_al_barazi.pdf) |
 | Coding C# with C# | AL Rodriguez | [Slides (PDF)](2026-02-27/coding_csharp_with_csharp-al-rodriguez.pdf) |
 | Découverte des services web avec Rust et Axum| Francis Lavoie| [Slides](2026-02-27/decouverte_rust_axum-Francis_Lavoie.pdf) [Demo/Project](https://gitlab.com/francis_l_projects/rustaxum-starter) |
 | Slack Messaging | Gerard Gallant | [PDF](2026-02-27/Slack_Messaging-Gerard-Gallant.pdf), [notes and code](2026-02-27/Slack_Messaging-Gerard-Gallant.zip) |
